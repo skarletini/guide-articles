@@ -7,3 +7,5 @@ A good start is the current Beta [introduction for the CSS challenges](https://g
 #### Draft of Article:
 <!-- Please add your working draft below in GitHub-flavored Markdown -->
 General overview of what CSS is, how to include it in a website (inline, with `<style>` tags, externally linked), and the CSS box model
+
+My changes
